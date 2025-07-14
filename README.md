@@ -28,11 +28,12 @@ This **Excel project** presents an interactive dashboard to analyze key emergenc
 
 ## 🛠 Tools & Techniques Used
 
-- [x] Microsoft Excel  
-- [x] Power Query for ETL  
-- [x] Power Pivot for relationships & DAX formulas  
-- [x] Pivot Tables for aggregation  
-- [x] Data Visualization: charts, KPIs, slicers
+- ✅ Microsoft Excel  
+- ✅ Power Query for ETL  
+- ✅ Power Pivot for relationships & DAX formulas  
+- ✅ Pivot Tables for aggregation  
+- ✅ Data Visualization: charts, KPIs, slicers
+
 
 ---
 
